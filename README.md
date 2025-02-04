@@ -5,9 +5,9 @@ Soy estudiante de la Universidad Tecnológica de El Salvador y un apasionado des
 ## Mis habilidades técnicas incluyen
 
 - **Lenguajes de programación**: C#, CSS, C++, Dart, HTML, Java, Javascript, PHP, Python, Transact-SQL.
-- **Entornos de Desarrollo Integrados y Editores de Texto y Código**: Android Studio, Apache NetBeans IDE, Visual Studio Code, Visual Studio Community 2019 y 2022.
+- **Entornos de Desarrollo Integrados y Editores de Texto y Código**: Android Studio, Apache NetBeans IDE, IntelliJ IDEA, Visual Studio Code, Visual Studio Community 2019 y 2022.
 - **Sistemas de Control de Versiones y Plataformas de Desarrollo Colaborativos**: Git, GitLab, GitHub.
-- **Herramientas relacionadas a Frameworks y Librerías**: ASP.NET, Composer, Flutter 3.10.1, jQuery 3.5.1, jQuery UI 1.13.2, Node.js 14.20.0, NVM (Node Version Manager), Laravel 8.0, SweetAlert 2.0, Vue.js 2.0.
+- **Herramientas relacionadas a Frameworks y Librerías**: ASP.NET, Composer, Flutter 3.10.1, jQuery 3.5.1, jQuery UI 1.13.2, Maven, Node.js 14.20.0, NVM (Node Version Manager), Laravel 8.0, Spring Boot, SweetAlert 2.0, Vaadin Flow, Vue.js 2.0.
 - **Herramientas y Sistemas para la Gestión de Bases de datos**: Dbeaver, MariaDB, MySQL, SQLServer.
 - **Herramientas Complementarias**: Antivirus & VPN, Fotor, Inteligencia Artificial, MS Excel, MS PowerPoint, MS Word, Paint (Normal & 3D).
 
@@ -48,11 +48,8 @@ Soy estudiante de la Universidad Tecnológica de El Salvador y un apasionado des
 
 Si quieres colaborar en un proyecto o simplemente charlar, no dudes en contactarme:
 
-- 📧 Correo electrónico: <yamagiwacuellar@gmail.com>
 - 💼 LinkedIn: [Ignacio Yamagiwa Cuéllar](https://www.linkedin.com/in/yamagiwacuellar)
-- 📷 Instagram: [@yamagiwacuellar](https://www.instagram.com/yamagiwacuellar)
-- 🐦 Twitter: [@yamagiwacuellar](https://twitter.com/yamagiwacuellar)
-- 🅵 Facebook: [@ignacioyamagiwacuellar](https://www.facebook.com/ignacioyamagiwacuellar)
 - 🦝 Gitlab: [@yamagiwacuellar](https://gitlab.com/yamagiwacuellar)
+- 📧 Número de teléfono: [+503 6164 - 6466](tel:+50361646466)
 
 ¡Gracias por visitar mi perfil de GitHub!
